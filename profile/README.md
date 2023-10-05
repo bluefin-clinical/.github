@@ -1,4 +1,4 @@
-# Bluefin
+Ensure clinical trial success with 🐟 Bluefin.
 
 <!--
 
